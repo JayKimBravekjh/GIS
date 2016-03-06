@@ -54,7 +54,7 @@ public class MapEventsApp {
     
     final static int panAmount = 1000000;
     
-    final static String URL_WORLD_BASEMAP = "http://services.arcgisonline.com/ArcGIS/rest/services/NatGeo_Wo
+    final static String URL_WORLD_BASEMAP = "http://services.arcgisonline.com/ArcGIS/rest/services/NatGeo_Wo"
     
     private JMap map;
     
